@@ -35,3 +35,4 @@ PRU software (pru_sw):
       blink
       blinkslave
       dmx
+      gpio_pw_sin
